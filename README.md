@@ -1,7 +1,7 @@
 # Hey, soy Torquitos 👋
 
 Estudiante de **Análisis y Desarrollo de Software** en SENA · Armenia, Colombia 🇨🇴  
-Construyo cosas en la web de noche, reparto paquetes de día, y levanto hierro entre medio.
+Construyo cosas en la web 
 
 ---
 

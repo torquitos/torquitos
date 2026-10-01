@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -36,6 +38,43 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🎵 Nexus Mini Player</h3>
+      <p align="center">
+        <a href="https://github.com/torquitos/nexus-mini-player/releases/latest">⬇️ Descargar</a> ·
+        <a href="https://github.com/torquitos/nexus-mini-player">📂 Repo</a>
+      </p>
+      <p>Widget flotante para Windows con PySide6. Detecta automáticamente qué app de música está sonando (Spotify, YouTube Music, Apple Music), extrae el color dominante de cada carátula y lo usa como acento dinámico. Control de volumen, ícono en bandeja del sistema, y ejecutable standalone listo para descargar.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Qt%20%2F%20PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📈 QuantBot Pro</h3>
+      <p align="center">
+        <a href="https://github.com/torquitos/bot-binance">📂 Repo</a>
+      </p>
+      <p>Bot de trading automatizado para Binance Spot con panel web, backtesting con interés compuesto, datos en tiempo real vía WebSocket, estrategias técnicas (RSI, MACD, Bandas de Bollinger, cruce de medias) y notificaciones por Telegram.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌤️ Clima App</h3>
+      <p align="center">
+        <a href="https://github.com/torquitos/app-clima">📂 Repo</a>
+      </p>
+      <p>App del clima con React 19 y Vite. Clima actual, pronóstico de 5 días, geolocalización y ciudades favoritas, con UI glassmorphism y animaciones según el clima.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">🎯 Portafolio Personal</h3>
       <p align="center">
         <a href="https://torquitos.github.io/portafolio">🌐 Demo</a> ·
@@ -46,18 +85,6 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎲 Dinámicas Razam</h3>
-      <p align="center">
-        <a href="https://torquitos.github.io/informacion-dinamicas-razam">🌐 Demo</a> ·
-        <a href="https://github.com/torquitos/informacion-dinamicas-razam">📂 Repo</a>
-      </p>
-      <p>Sitio web para negocio familiar de rifas y sorteos con panel de administración y persistencia en localStorage.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -75,13 +102,15 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🎵 Mini-Reproductor</h3>
+      <h3 align="center">🎲 Dinámicas Razam</h3>
       <p align="center">
-        <a href="https://github.com/torquitos/mini-reproductor">📂 Repo</a>
+        <a href="https://torquitos.github.io/informacion-dinamicas-razam">🌐 Demo</a> ·
+        <a href="https://github.com/torquitos/informacion-dinamicas-razam">📂 Repo</a>
       </p>
-      <p>Widget flotante para Windows en Python con customtkinter. Integración con Spotify vía winsdk.</p>
+      <p>Sitio web para negocio familiar de rifas y sorteos con panel de administración y persistencia en localStorage.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </p>
     </td>
   </tr>

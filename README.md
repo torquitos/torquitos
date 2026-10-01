@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A19AE5&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Torquitos+%F0%9F%91%8B;Estudiante+SENA+%F0%9F%92%BB;Analisis+y+Desarrollo+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E5546F&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Torquitos+%F0%9F%91%8B;Estudiante+SENA+%F0%9F%92%BB;Analisis+y+Desarrollo+de+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,6 +12,9 @@
   </a>
   <a href="https://github.com/torquitos">
     <img src="https://img.shields.io/badge/GitHub-030307?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/walter-ramirez-2a31aa372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -36,6 +39,29 @@
 ## 🚧 Proyectos destacados
 
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧲 Prospexa</h3>
+      <p align="center"><sub>Repositorio privado · en desarrollo</sub></p>
+      <p>Generador de leads locales: busca negocios en Google Maps dentro de una zona elegida en un mapa, califica su potencial y los contacta por WhatsApp, Instagram o correo con seguimiento por etapas. Panel multi-cuenta con roles y colas de trabajo con BullMQ.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐾 Shimeji Nexus</h3>
+      <p align="center">
+        <a href="https://github.com/torquitos/shimeji-nexus">📂 Repo</a>
+      </p>
+      <p>Mascotas de escritorio con personalidad propia que caminan por la pantalla, interactúan entre sí y conversan usando Gemini, OpenAI u OpenRouter. Incluye launcher y editor de personajes.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CustomTkinter-1f6feb?style=flat-square" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🎵 Nexus Mini Player</h3>
@@ -80,7 +106,7 @@
         <a href="https://torquitos.github.io/portafolio">🌐 Demo</a> ·
         <a href="https://github.com/torquitos/portafolio">📂 Repo</a>
       </p>
-      <p>Portafolio con modo oscuro/claro, textura noise, toggle de tema, y proyectos destacados.</p>
+      <p>Portafolio personal en su segunda versión: rediseño sobrio en gris carbón con proyectos y capturas reales. La <a href="https://torquitos.github.io/portafolio/v1/">primera versión</a> sigue disponible para ver de dónde partí.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -147,6 +173,12 @@
   </a>
   <a href="https://torquitos.github.io/portafolio">
     <img src="https://img.shields.io/badge/Portafolio-3122b9?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/walter-ramirez-2a31aa372/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:walterramirezperz@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 

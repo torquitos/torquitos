@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Análisis y Desarrollo de Software</strong> · SENA · Armenia, Colombia 🇨🇴
+  <strong>Análisis y Desarrollo de Software</strong> · SENA ·  Colombia 🇨🇴
 </p>
 
 <p align="center">
